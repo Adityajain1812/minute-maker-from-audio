@@ -1,4 +1,4 @@
-# 📌 Minute Maker from audio Overview
+# 📌 Minute Maker From Audio Overview
 
 Meetings often produce long discussions, but capturing the **key points, decisions, and action items** is time-consuming.  
 This project aims to build an **AI-powered meeting assistant** that can automatically generate professional meeting minutes from audio recordings.
